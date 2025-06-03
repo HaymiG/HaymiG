@@ -9,7 +9,7 @@
 - 🌱 Learning more about: **Machine Learning**, **Deep Learning**, and **REST APIs**
 - 👯 Looking to collaborate on: Open-source projects and internships
 - 💬 Ask me about: Python, Django, PHP, Java, Full-Stack Development, and AI basics
-- 📫 How to reach me: [haymig75@gmail.com] | [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://linkedin.com/in/haymanot-getachew)))
+- 📫 How to reach me: [haymig75@gmail.com] | [LinkedIn Profile]((https://linkedin.com/in/haymanot-getachew)))
 
 ---
 
