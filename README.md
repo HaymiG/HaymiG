@@ -43,16 +43,18 @@ Tools
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=haymig&theme=tokyonight" height="165"/> </p>
+<h3 align="center">GitHub Analytics</h3> <p align="center" style="width:100%; display:flex; justify-content:space-between; align-items:center;"> <img src="https://github-readme-stats-fast.vercel.app/api?username=haymig&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&hide_rank=true&height=120" height="120" /> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haymig&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&height=120" height="120" /> </p>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haymig&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haymig&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haymig&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+</p> -->
 
 
 
