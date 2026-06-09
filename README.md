@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2487F7&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Student;A2SV+Software+Engineering+Trainee;AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2487F7&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Student;AI+Enthusiast" alt="Typing SVG" />
 </a>
 </p>
 
@@ -50,11 +50,11 @@ Tools
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haymig&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haymig&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p> -->
+</p> 
 
-<!-- <p align="center">
+<!---<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haymig&theme=tokyonight&hide_border=true" height="150"/>
-</p> -->
+</p> --->
 
 
 
