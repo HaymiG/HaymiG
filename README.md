@@ -91,7 +91,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=haymig&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&height=180" height="180" /> -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=haymig&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&height=180" height="180" /> 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haymig&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&langs_count=10&height=180" height="180" />
 </p>
 
@@ -99,9 +99,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haymig&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haymig&theme=tokyo-night&hide_border=true" width="90%" />
-</p> 
+</p>  -->
 
 ---
 > "The most important thing... is to just keep learning. There's just a torrent of new ideas coming." — Andrew Ng
