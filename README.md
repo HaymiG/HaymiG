@@ -99,9 +99,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haymig&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haymig&theme=tokyo-night&hide_border=true" width="90%" />
-</p> -->
+</p> 
 
 ---
 > "The most important thing... is to just keep learning. There's just a torrent of new ideas coming." — Andrew Ng
